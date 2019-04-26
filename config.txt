@@ -1,6 +1,6 @@
-token=NTM4MTMwMTU2NzE2NTU2Mjkx.DyvVKw.gnuewrBrqdUo1Fs14JijohEQyig
-owner=433198762706599936
-prefix=r
-game= akira is here ..
+token=NTYzNDUzNjcxNzUzNjQ2MDgw.XMNhNA.icblR7vyiJxJo-IZvrhPSZPfRPg
+owner=538083629461536789
+prefix=1
+game=Type 1 Play
 stayinchannel=true
 songinstatus=true 
